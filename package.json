@@ -1,0 +1,44 @@
+{
+  "name": "power-word-generator",
+  "version": "1.0.0",
+  "description": "Random words generator in Arabic and English with 3500+ words across 15 categories, bots minigames, usernames, sentences, and more",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "words.js"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "start": "node example.js"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "generator",
+    "arabic",
+    "english",
+    "bilingual",
+    "sentence",
+    "paragraph",
+    "text",
+    "discord-bot",
+    "scramble",
+    "puzzle",
+    "power"
+  ],
+  "author": "Power (tokyojs1)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokyojs1/power-word-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tokyojs1/power-word-generator/issues"
+  },
+  "homepage": "https://github.com/tokyojs1/power-word-generator#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
